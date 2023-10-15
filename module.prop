@@ -1,0 +1,6 @@
+id=hfrklte-module
+name=High-Framerate video recording for Samsung GALAXY S5 (klte)
+version=1-untested
+versionCode=1
+author=furiousdroid
+description=Fix HFR video recording on klte in LineageOS
